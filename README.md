@@ -1,2 +1,2 @@
-# Spam-Mail-Classification
+# Spam-Message-Classification
 Naive Bayes Algorithm
